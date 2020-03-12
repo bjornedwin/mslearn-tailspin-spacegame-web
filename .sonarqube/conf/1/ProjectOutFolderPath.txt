@@ -1,0 +1,1 @@
+/Users/bjorn-liatrio/projects/mslearn-tailspin-spacegame-web/.sonarqube/out/1
